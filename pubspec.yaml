@@ -1,0 +1,42 @@
+name: fluf
+description: "Flutter Firebase Bootstrap"
+version: 0.0.1
+repository: https://github.com/ArcaneArts/fluf
+environment:
+  sdk: ^3.5.2
+  flutter: ">=1.17.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.4
+  firebase_storage: ^12.3.4
+  firebase_auth: ^5.3.1
+  firebase_analytics: ^11.3.3
+  firebase_crashlytics: ^4.1.3
+  rxdart: ^0.28.0
+  serviced: ^1.0.1
+  toxic: ^1.3.2
+  toxic_flutter: ^1.0.2+1
+  google_sign_in: ^6.2.1
+  sign_in_with_apple: ^6.1.3
+  desktop_webview_auth: ^0.0.15
+  flutter_svg: ^2.0.11
+  uuid: ^4.5.1
+  fire_api: ^1.1.9+5
+  fire_api_flutter: ^1.2.0
+  fire_crud: ^2.3.7
+  fire_crud_flutter: ^1.2.13
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  memcached: ^1.1.0
+  fast_log: ^1.0.7
+  path_provider: ^2.1.5
+  synchronized: ^3.3.0+3
+  flutter_native_splash: ^2.4.2
+  universal_io: ^2.2.2
+  crypto: ^3.0.6
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
